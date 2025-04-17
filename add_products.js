@@ -15,7 +15,7 @@ function Addproducts(){
           };
         
    
-
+ 
     return (
         <section className="Box">
             <h1>My Products</h1>
